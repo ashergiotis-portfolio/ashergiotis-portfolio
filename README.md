@@ -2,6 +2,7 @@
 Asher GiOtis | VP of Operational Strategy|
 Architect of the Sovereign Perimeter
 
+[Explore Full Portfolio & Case Studies](https://ashergiotis-portfolio.github.io/Professional/#about)
 ### "Neutralizing Emotional Debt through Sovereign Systems Design."
 
 I am a Trauma-Informed Operational Architect with 20 years of experience building high-stakes frameworks for the health-tech and insurance sectors. I specialize in the **Sovereign Perimeter**—a proprietary methodology for neutralizing recursive friction and securing operational sovereignty.

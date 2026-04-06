@@ -12,7 +12,7 @@ I am a Trauma-Informed Operational Architect with 20 years of experience buildin
 Interested in seeing the "Black Box" in action? Explore my deep-dives into operational architecture and UX strategy:
 
 👉 **[View My Portfolio](https://ashergiotis-portfolio.github.io/Professional/#about)**
-👉 **[Connect on LinkedIn](https://www.linkedin.com/in/ashergiotis)**
+👉 **[Connect on LinkedIn](https://www.linkedin.com/in/asher-giotis-813b1481/)**
 ## 🚀 Core Competencies
 * **Systems Architecture:** Designing "Black Box" operational logic (BPO, API Synchronization, & UX Micro-copy).
 * **Operational Strategy:** Eliminating the "Emotional Debt" interest rate paid by front-line teams to protect enterprise margins.

@@ -1,4 +1,4 @@
-<img src="Asher On the Breach.jpg" width="220" align="left" style="border-radius: 50%; border: 5px solid #2ea44f; margin-right: 20px;" alt="Asher GiOtis, Operational Architect">
+<img src="asher-beach-profile.png" width="220" align="left" style="border-radius: 50%; border: 5px solid #2ea44f; margin-right: 20px;" alt="Asher GiOtis, Operational Architect">
 # Asher GiOtis | Operational Architect & VP of Strategy
 
 ### "Neutralizing Emotional Debt through Sovereign Systems Design."

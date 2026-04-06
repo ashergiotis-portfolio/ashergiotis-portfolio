@@ -1,6 +1,6 @@
 <img src="asher-beach-profile.jpg" width="220" align="left" style="border-radius: 50%; border: 5px solid #2ea44f; margin-right: 20px;" alt="Asher GiOtis, Operational Architect">
-Asher GiOtis | VP of Operational Strategy
-##Architect of the Sovereign Perimeter
+Asher GiOtis | VP of Operational Strategy|
+Architect of the Sovereign Perimeter
 
 ### "Neutralizing Emotional Debt through Sovereign Systems Design."
 
